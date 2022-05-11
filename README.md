@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
 # 📫 How to reach me: 
- **Click [Here](elsayeddsalma@gmail.com)**
+ **Gmail: elsayeddsalma@gmail.com**
  
  
 
